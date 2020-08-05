@@ -2,8 +2,8 @@ import React from 'react'
 
 export const Balance = () => {
     return (
-        <div>
-            Balance
-        </div>
+        <>
+            <h2>Balance</h2>
+        </>
     )
 }
